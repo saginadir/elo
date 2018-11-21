@@ -4,7 +4,7 @@ The Elo ranking system was initially invented by [Arpad Elo](https://en.wikipedi
 
 ## Example of usage:
 
-```
+```javascript
 const Elo = require("./index.js")
 
 let playerA = 1200
